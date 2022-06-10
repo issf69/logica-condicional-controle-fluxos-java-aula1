@@ -67,24 +67,24 @@ public class Main {
 }
 ## Resultado
    // i1 == i2false
-i1 !=i2 true
-i1 > i2 false
-i1 <= i2 true
-f1 == f2 false
-f1 != f2 true
-f1 >= f2 true
-f1 < f2 false
-c1 == c2 false
-c1 != c2 true
-c1 > c2 false
-c1 <= c2 true
-s1 == s2 true
-s1 == s3 false
-s1 != s2 false
-b1 == b2 false
-b1 != b2 true
-i2 >f1 true
-d1 == h1 false
-l1 == i2 false
-l1 >= i1true
-y1 != h1 true
+   i1 !=i2 true
+   i1 > i2 false
+   i1 <= i2 true
+   f1 == f2 false
+   f1 != f2 true
+   f1 >= f2 true
+   f1 < f2 false
+   c1 == c2 false
+   c1 != c2 true
+   c1 > c2 false
+   c1 <= c2 true
+   s1 == s2 true
+   s1 == s3 false
+   s1 != s2 false
+   b1 == b2 false
+   b1 != b2 true
+   i2 >f1 true
+   d1 == h1 false
+   l1 == i2 false
+   l1 >= i1true
+   y1 != h1 true
