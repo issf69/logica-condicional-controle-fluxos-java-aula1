@@ -65,7 +65,7 @@ public class Main {
 
         }
 }
-## Resultado
+   // Resultado
    i1 == i2false
    i1 !=i2 true
    i1 > i2 false
